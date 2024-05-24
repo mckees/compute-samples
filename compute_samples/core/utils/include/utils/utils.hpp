@@ -8,6 +8,7 @@
 #ifndef COMPUTE_SAMPLES_UTILS_HPP
 #define COMPUTE_SAMPLES_UTILS_HPP
 
+#include <stdint.h>
 #include <algorithm>
 #include <vector>
 #include <string>
